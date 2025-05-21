@@ -1,5 +1,5 @@
 html {
-    scroll-padding-top: 80px; /* This ensures elements scrolled to are not hidden behind the fixed nav */
+    scroll-padding-top: 80px;
 }
 
 body {
